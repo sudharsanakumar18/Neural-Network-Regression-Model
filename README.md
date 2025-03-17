@@ -96,7 +96,8 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://github.com/user-attachments/assets/74c97156-5c01-42b2-829f-c374ac0be6e7)
+![Screenshot 2025-03-17 124329](https://github.com/user-attachments/assets/8457b406-3868-4645-a682-b75f0a234402)
+
 
 
 
